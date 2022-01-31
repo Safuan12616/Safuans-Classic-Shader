@@ -1,0 +1,18 @@
+{
+    "format version": 2,
+    "header": {
+        "description": "Classic Shader made by Safuan",
+        "name": "Safuan's Classic Shader",
+        "uuid": "0651effd-323e-4cda-80a6-c98a382db6fb",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Classic Shader made by Safuan",
+            "type": "resources",
+            "uuid": "8ba74297-93e9-4c85-830d-38dc46e91008",
+            "version": [0, 0, 1]
+        }
+    ]
+}
